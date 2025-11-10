@@ -1,5 +1,6 @@
 # TrafficAccidentSeverity
 🛣️ Statistical and Predictive Analysis of Traffic Accident Severity
+
 📘 Project Overview
 
 Road accidents are a major global concern, causing fatalities, severe injuries, and economic losses. This project aims to analyze and predict the severity of traffic accidents through statistical and predictive modeling techniques.
